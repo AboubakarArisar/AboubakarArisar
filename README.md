@@ -2,7 +2,7 @@
  
 <h1 align="center">Hi 👋, I'm Aboubakar Arisar</h1>
 <h3 align="center">A passionate developer form Pakistan</h3>
-<img align = "right" alt = "coding" width = "400" stc = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw357msO-tucRynm5FMZfE2O&ust=1682779953199000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPCZxP3pzP4CFQAAAAAdAAAAABAE"
+<img align = "right" alt = "coding" width = "400" stc = "https://gifer.com/en/bJk"
 
 
 
