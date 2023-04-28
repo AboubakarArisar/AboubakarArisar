@@ -5,7 +5,7 @@
 - 📫 How to reach me aboubakar.arisarsahab@gmail.com ...
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AboubakarArisar&theme=dark-smoky&type=png)](https://git.io/streak-stats)<!---
+[![GitHub Streak](https://streak-stats.demolab.com?user=AboubakarArisar&theme=ads-juicy-fresh)](https://git.io/streak-stats)
 AboubakarArisar/AboubakarArisar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
