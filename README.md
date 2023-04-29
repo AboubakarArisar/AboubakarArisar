@@ -1,11 +1,7 @@
-body {
- 
- background-color: black;
-  color: white;
 
 # 💫 About Me:
 Hello this is me **Aboubakar Arisar**
-🔭 I’m currently working on GUI java projects<br>👯 I’m looking to collaborate on various programming languages<br>🌱 I’m currently learning JS and web development1<br>💬 Ask me about cpp and oop in java
+<br>🔭 I’m currently working on GUI java projects<br>👯 I’m looking to collaborate on various programming languages<br>🌱 I’m currently learning JS and web development1<br>💬 Ask me about cpp and oop in java
 
 
 ## 🌐 Socials:
@@ -34,4 +30,4 @@ Hello this is me **Aboubakar Arisar**
 [![](https://visitcount.itsvg.in/api?id=AboubakarArisar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-}
+
