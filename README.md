@@ -1,34 +1,34 @@
-
- 
-<h1 align="center">Hi 👋, I'm Aboubakar Arisar</h1>
-<h3 align="center">A passionate developer form Pakistan</h3>
-<img align = "right" alt = "coding" width = "400" stc = "https://gifer.com/en/bJk"
+# 💫 About Me:
+Hello this is me **Aboubakar Arisar**
+🔭 I’m currently working on GUI java projects<br>👯 I’m looking to collaborate on various programming languages<br>🌱 I’m currently learning JS and web development1<br>💬 Ask me about cpp and oop in java
 
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100079163640295&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/aboubakarisar05?igshid=ZDdkNTZiNTM=) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aboubakar-arisar-825412264) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@arisar36) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Aboubakar Arisar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@pindaricoders) 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aboubakararisar&label=Profile%20views&color=0e75b6&style=flat" alt="aboubakararisar" /> </p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AboubakarArisar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AboubakarArisar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AboubakarArisar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🌱 I’m currently learning **Python, Front end developer**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AboubakarArisar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 👯 I’m looking to collaborate on **OOP in java**
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=Aboubakar Arisar)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-- 🤝 I’m looking for help with **C++**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 📫 How to reach me **pindaricoders@gmail.com**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AboubakarArisar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- ⚡ Fun fact **I think I am funny**
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/aboubakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aboubakar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cool as code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cool as code" height="30" width="40" /></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=AboubakarArisar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aboubakararisar&show_icons=true&locale=en" alt="aboubakararisar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aboubakararisar&" alt="aboubakararisar" /></p>
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
