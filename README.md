@@ -1,7 +1,20 @@
 
 # 💫 About Me:
-Hello this is me **Aboubakar Arisar**
-<br>🔭 I’m currently working on GUI java projects<br>👯 I’m looking to collaborate on various programming languages<br>🌱 I’m currently learning JS and web development1<br>💬 Ask me about cpp and oop in java
+
+👋 Hi there! I'm Aboubakar 
+
+🌐 Front-End Developer | 💻 Web Enthusiast | 📱 App Development Learner | 🧪 OOP & C++ Enthusiast
+
+🔨 Crafting interactive and responsive web experiences with HTML, CSS, and JavaScript.
+
+📚 OOP | Java | C++
+
+📱 Exploring the realm of App Development to bring creative ideas to life.
+
+🚀 Passionate about user-friendly design and pixel-perfect coding.
+
+🔗 Let's connect and collaborate on exciting projects!
+
 
 
 ## 🌐 Socials:
