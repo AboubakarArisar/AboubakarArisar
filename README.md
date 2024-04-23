@@ -3,7 +3,7 @@
 
 👋 Hi there! I'm Aboubakar 
 
-🌐 Front-End Developer | 💻 Web Enthusiast | 📱 App Development Learner | 🧪 OOP & C++ Enthusiast
+🌐 MERN Stack Developer | 💻 Web Enthusiast | 📱 App Development Learner | 🧪 OOP & C++ Enthusiast
 
 🔨 Crafting interactive and responsive web experiences with HTML, CSS, and JavaScript.
 
