@@ -4,8 +4,8 @@
 
 
 <p align="center">
-  <a href="http://jrohit.com.np" target="_blank">
-        <img alt="http://readme-typing-svg.demolab.com" width="150" src="https://github.com/getintorj/getintorj/blob/master/2.png?raw=true">
+  <a href="" target="_blank">
+        <img alt="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=MERN+Stack+Developer" alt="Typing SVG" /></a>" width="150" src="https://github.com/getintorj/getintorj/blob/master/2.png?raw=true">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adjust the number of non-breaking spaces as needed -->
     <a href="http://jrohit.com.np" target="_blank">
@@ -29,11 +29,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE%20(AI);PROGRAMMER%20;YOUTUBER%20;EXPERIENCED%20UI%2FUX%20DESIGNER;3%2B%20YEAR's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
 </a>
 
-<!--
-<a href="https://jharohit.com.np">
-    <img src="https://raw.githubusercontent.com/getintorj/getintorj/master/Final.png" alt="Clickable Image">
-</a> 
--->
+
 
 <img src="https://github.com/getintorj/getintorj/blob/master/2nd%20arrow.gif?raw=true">
 
@@ -63,7 +59,7 @@
 ### 
 <p align="center"> 
  🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
-  <img src="https://profile-counter.glitch.me/getintorj/count.svg"/>
+  <img src="https://profile-counter.glitch.me/AboubakarArisar/count.svg"/>
   </p>
 
 
