@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 
-👋 Hi there! I'm Aboubakar 
+👋 Hi there! I'm Aboubakar Arisar
 
 🌐 MERN Stack Developer | 💻 Web Enthusiast | 📱 App Development Learner | 🧪 OOP & C++ Enthusiast
 
