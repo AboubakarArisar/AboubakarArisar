@@ -1,44 +1,32 @@
-<!-- Animated Gif Here -->
 <p align="center">
   <img src="animated.gif" align="center" width="90%" />
 </p>
 
 ### A Little More About Me! 🧟‍♂️
 
+```js
 const aboubakar = {
   askMeAbout: ["MERN Development", "Python Development", "Java", "Cpp", "Rust"],  
-    frontEnd: [
-      xp: '2.5 yrs',
-      techs: ["html", "css", "javascript", "typescript", "react", "next.js", "redux", "react hooks", "tailwind", "styled components", "java", "python", "rust", "DSA" , "OOP" ]
-    ]
-    backEnd: {
-      xp: '2 yrs'.
-      techs: {
-        "nodejs": ["express", "mongoose"]
-      }
-    }
-    db: {
-      sql: ["mysql", "postgresql", "sqllite", "supabase"],
-      nosql: ["mongodb", "firebase"],
-    },
-  }
-  hobbies: {
-    'Playing Games',
-    'Tech Enthusiast'
-    'Being up all Night Chasing that ONE BUG...'
+  frontEnd: {
+    xp: '2.5 yrs',
+    techs: ["html", "css", "javascript", "typescript", "react", "next.js", "redux", "react hooks", "tailwind", "styled components", "java", "python", "rust", "DSA", "OOP"]
   },
- lastButNotLeast: ["Updating Myself Virtually and in Reality"]
+  backEnd: {
+    xp: '2 yrs',
+    techs: {
+      "nodejs": ["express", "mongoose"]
+    }
+  },
+  db: {
+    sql: ["mysql", "postgresql", "sqllite", "supabase"],
+    nosql: ["mongodb", "firebase"]
+  },
+  hobbies: ['Playing Games', 'Tech Enthusiast', 'Being up all Night Chasing that ONE BUG...'],
+  lastButNotLeast: ["Updating Myself Virtually and in Reality"]
 }
-```
-
-<!-- SkillSet Section Here -->
-
-# 👨‍💻 My Skills Set:
-
+👨‍💻 My Skills Set:
 <table><tr><td valign="top" width="33%">
-
-## Frontend
-
+Frontend
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -53,11 +41,8 @@ const aboubakar = {
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>
-
 </td><td valign="top" width="33%">
-
-## Backend
-
+Backend
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
@@ -68,82 +53,44 @@ const aboubakar = {
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-  
 </div>
-
 </td><td valign="top" width="33%">
-
 </td></tr></table>
-
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
+📊 GitHub Stats
+<hr>
+<br/>
+<br/>
 
-<!-- GitHub Stats Section Here -->
 
-# 📊 GitHub Stats
+
 
 <hr>
-
-![](https://github-readme-stats.vercel.app/api?username=AboubakarArisar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AboubakarArisar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AboubakarArisar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=AboubakarArisar&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- color=nord_dark -->
-
-<hr>
-
 <p align="center">
-<img src="https://github-widgetbox.vercel.app/api/profile?username=echooferen&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=AboubakarArisar&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
 </p>
-
-<!-- Coloured Line -->
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
-
-<!-- GitHub Contribution Section Here -->
-
-## 📈 GitHub Contribution Graph
-
-[![Eren github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=echooferen&bg_color=d4d1ff&color=4c749e&line=9e4c59&point=40413e&area=true&hide_border=true)](https://github.com/echooferen/github-readme-activity-graph)
+📈 GitHub Contribution Graph
 
 <hr>
-
-<!-- Coloured Line -->
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
+✍️ Random Dev Quote
 
-<!-- Random Quote Section Here -->
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Summary Section Here -->
-
-## 💳 Github Profile Summary Card
-
-<!-- <img width="200px" align="left" src="https://komarev.com/ghpvc/?username=echooferen&style=flat-square&color=22CCB2">
-<hr>
-<br> -->
-
+💳 Github Profile Summary Card
 <div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=echooferen&theme=2077"  display=block width=100% height=auto  alt="1" >
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AboubakarArisar&theme=2077" display=block width=100% height=auto alt="1">
 </div>
-
-###
-
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
-
 <div align="center">
-
-### Made By ❤️ Eren © Copyright. All Rights Reserved @2024.
-
+### Made By ❤️ Aboubakar © Copyright. All Rights Reserved @2024.
 </div>
+```
