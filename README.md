@@ -13,8 +13,8 @@
 
 - 📫 How to reach me **aboubakar.dev@gmail.com**
 
-<div style="width: 100%; display:flex; justify-items:center; align-items:center">
-  <img src="./images/pindaricoders.png" alt="My picture" width="200" height="200">
+<div style="align-text:center">
+  <img src="./images/pindaricoders.png" alt="My picture" width="150" height="auto">
 </div>
 
 <h3 align="left">Connect with me:</h3>
