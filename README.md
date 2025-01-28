@@ -13,7 +13,9 @@
 
 - 📫 How to reach me **aboubakar.dev@gmail.com**
 
+<div align='center'>
 <a href="https://app.daily.dev/pindaricoders"><img src="https://api.daily.dev/devcards/v2/n9aj4LjPy06brwkx5lWtp.png?type=wide&r=i5a" width="652" alt="Aboubakar's Dev Card"/></a>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
