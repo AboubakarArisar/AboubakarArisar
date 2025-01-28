@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aboubakar.dev@gmail.com**
 
-![My picture](./images/image.png)
+![My picture](./images/pindaricoders.png)
 
 
 <h3 align="left">Connect with me:</h3>
