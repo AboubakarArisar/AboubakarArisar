@@ -32,4 +32,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=AboubakarArisar&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<p>(https://github-readme-streak-stats.herokuapp.com/?user=AboubakarArisar)</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
