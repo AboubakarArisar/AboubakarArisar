@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI in Development**
 
-- 👨‍💻 All of my projects are available at [https://aboubakardev.vercel.app/](https://aboubakarisar.tech/)
+- 👨‍💻 All of my projects are available at [https://aboubakarisar.tech/](https://aboubakarisar.tech/)
 
 - 💬 Ask me about **react, next.js, backend**
 
