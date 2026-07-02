@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aboubakararisar&label=Profile%20views&color=0e75b6&style=flat" alt="aboubakararisar" /> </p>
 
-- 🔭 I’m currently working on [sportsfest-app](https://sportsfest.vercel.app/)
+- 🌱 I’m currently learning **AI in Development**
 
-- 🌱 I’m currently learning **Remix js**
+- 👨‍💻 All of my projects are available at [https://aboubakardev.vercel.app/](https://aboubakarisar.tech/)
 
-- 👨‍💻 All of my projects are available at [https://aboubakardev.vercel.app/](https://aboubakardev.vercel.app/)
-
-- 💬 Ask me about **react, next.js**
+- 💬 Ask me about **react, next.js, backend**
 
 - 📫 How to reach me **aboubakar.dev@gmail.com**
 
