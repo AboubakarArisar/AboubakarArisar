@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aboubakar</h1> 
 <h3 align="center">MERN Stack Developer from Pakistan</h3>
 
+[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Faboubakararisar&style=flat)](https://rankistan.dev)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aboubakararisar&label=Profile%20views&color=0e75b6&style=flat" alt="aboubakararisar" /> </p>
 
 - 🌱 I’m currently learning **AI in Development**
