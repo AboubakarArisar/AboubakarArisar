@@ -30,33 +30,27 @@
 
 ## Things I've built
 
-<a href="https://aboubakarisar.tech"><img src="./assets/portfolio.png" width="100%" alt="My portfolio: I build software people actually use. Explore web apps, browser games, and community products." /></a>
+<table>
+<tr>
+<td width="50%"><a href="https://castlehub.aboubakarisar.tech"><img src="./assets/castlehub-card.svg" width="100%" alt="CastleHub: a MERN home for community builds. Open the live project." /></a></td>
+<td width="50%"><a href="https://typeverse.aboubakarisar.tech"><img src="./assets/typeverse-card.svg" width="100%" alt="Typeverse: eight typing games built with TypeScript and Preact. Play now." /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://aboubakarisar.tech"><img src="./assets/lastlight-card.svg" width="100%" alt="LAST LIGHT: browser football played by drawing. Find it in my portfolio." /></a></td>
+<td width="50%"><a href="https://github.com/AboubakarArisar/droplr-frontend"><img src="./assets/droplr-card.svg" width="100%" alt="Droplr: share files with people nearby. Explore the React frontend." /></a></td>
+</tr>
+</table>
 
-<p align="center"><a href="https://aboubakarisar.tech"><strong>Explore my portfolio ↗</strong></a></p>
-
-### 🏰 CastleHub
-Good builds kept getting buried in our Slack community, so I made a home for them. A MERN platform for sharing work in progress and discovering what others are building.
-
-<a href="https://castlehub.aboubakarisar.tech"><img src="./assets/castlehub.png" width="100%" alt="CastleHub: show the castle what you're building. A social home for the SkyCastle community." /></a>
-
-**MongoDB · Express · React · Node.js** &nbsp; [Explore CastleHub ↗](https://castlehub.aboubakarisar.tech)
-
-### ⌨️ Typeverse
-Eight typing games. One shared engine. Progress that stays in your browser.
-
-**TypeScript · Preact · Vite · Canvas** &nbsp; [Play ↗](https://typeverse.aboubakarisar.tech) · [Code ↗](https://github.com/AboubakarArisar/typeverse)
-
-### ⚽ LAST LIGHT
-A football game you play by drawing, with career levels, replays, and friend challenges.
-
-**TypeScript · Three.js · Vite · Supabase** &nbsp; [Find it in my portfolio ↗](https://aboubakarisar.tech)
+<p align="center"><a href="https://aboubakarisar.tech"><strong>All projects ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/AboubakarArisar/typeverse">Typeverse source</a> &nbsp; · &nbsp; <a href="https://github.com/AboubakarArisar/droplr-frontend">Droplr source</a></p>
 
 <details>
-<summary><strong>📂 One more: Droplr</strong></summary>
+<summary><strong>📸 Open project screenshots and the story behind CastleHub</strong></summary>
 <br />
-A location-based file-sharing app with nearby discovery, upload progress, and expiring files.
+Good builds kept getting buried in our Slack community, so I made a home for them. CastleHub lets members share work in progress and discover community projects.
 
-**React · Vite · Tailwind CSS** · [Explore the frontend ↗](https://github.com/AboubakarArisar/droplr-frontend)
+<a href="https://castlehub.aboubakarisar.tech"><img src="./assets/castlehub.png" width="100%" alt="CastleHub homepage" /></a>
+
+<a href="https://aboubakarisar.tech"><img src="./assets/portfolio.png" width="100%" alt="My portfolio homepage" /></a>
 
 </details>
 
