@@ -1,35 +1,148 @@
-<h1 align="center">Hi 👋, I'm Aboubakar</h1> 
-<h3 align="center">MERN Stack Developer from Pakistan</h3>
+<div align="center">
 
-[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Faboubakararisar&style=flat)](https://rankistan.dev)
+<a href="https://aboubakarisar.tech">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:163245,100:38bdf8&height=220&section=header&text=ABOU%20BAKAR%20ARISAR&fontSize=38&fontColor=f0f6fc&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%2F%20PRODUCT%20BUILDER&descSize=14&descAlignY=58" width="100%" alt="Abou Bakar Arisar | Full-stack developer and product builder" />
+</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aboubakararisar&label=Profile%20views&color=0e75b6&style=flat" alt="aboubakararisar" /> </p>
+### I build software people actually use.
 
-- 🌱 I’m currently learning **AI in Development**
+Web apps. Browser games. A home for a builder community.
 
-- 👨‍💻 All of my projects are available at [https://aboubakarisar.tech/](https://aboubakarisar.tech/)
+**Lahore, Pakistan · Open to remote and on-site developer roles**
 
-- 💬 Ask me about **react, next.js, backend**
+[![Portfolio](https://img.shields.io/badge/EXPLORE_MY_WORK-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=0d1117)](https://aboubakarisar.tech)
+[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-1e293b?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aboubakarisar/)
+[![Email](https://img.shields.io/badge/SAY_HELLO-1e293b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aboubakar.dev@gmail.com)
 
-- 📫 How to reach me **aboubakar.dev@gmail.com**
-
-<div align='center'>
-<a href="https://app.daily.dev/pindaricoders"><img src="https://api.daily.dev/devcards/v2/n9aj4LjPy06brwkx5lWtp.png?type=wide&r=i5a" width="652" alt="Aboubakar's Dev Card"/></a>
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aboubakar arisar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aboubakar arisar" height="30" width="40" /></a>
-<a href="https://instagram.com/aboubakarisar05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aboubakarisar05" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/youtube.com/@pindaricoders" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube.com/@pindaricoders" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## A little context
 
+I'm Abou Bakar, a full-stack developer who likes turning everyday frustrations into useful products. Sometimes that's a better way to share files. Sometimes it's a game you play in your browser.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aboubakararisar&show_icons=true&locale=en&layout=compact&theme=dark" alt="aboubakararisar" /></p>
+I work across the interface and backend with **React, Next.js, TypeScript, Node.js, Express, and MongoDB**. I care about the small details that make a product feel easy to use.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aboubakararisar&show_icons=true&locale=en&layout=compact&theme=dark" alt="aboubakararisar" /></p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AboubakarArisar&theme=dark" alt="aboubakararisar" /></p>
+**01 / MY APPROACH**
+
+Find a real problem. Build something people can try. Learn from what happens next.
+
+</td>
+<td width="50%" valign="top">
+
+**02 / WHAT'S NEXT**
+
+A frontend or full-stack role where I can contribute across the product and grow with the team.
+
+</td>
+</tr>
+</table>
+
+## Selected builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏰 CastleHub
+**A place for community builds to stay visible.**
+
+Good projects kept getting buried in our Slack community, so I built a home for them. Members can share work in progress, publish projects, and discover what others are building.
+
+`MongoDB` `Express` `React` `Node.js`
+
+[Explore CastleHub ↗](https://castlehub.aboubakarisar.tech)
+
+</td>
+<td width="50%" valign="top">
+
+### ⌨️ Typeverse
+**Typing practice with an arcade mindset.**
+
+Eight browser game modes powered by a shared typing engine. Built around different ways to play, with progress tracking that stays in your browser.
+
+`TypeScript` `Preact` `Vite` `Canvas`
+
+[Play Typeverse ↗](https://typeverse.aboubakarisar.tech) · [Read the code ↗](https://github.com/AboubakarArisar/typeverse)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📂 Droplr
+**Share files with people nearby.**
+
+A location-based file-sharing app with a React frontend, upload progress, nearby file discovery, and expiring files.
+
+`React` `Vite` `Tailwind CSS`
+
+[Explore the frontend ↗](https://github.com/AboubakarArisar/droplr-frontend)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚽ LAST LIGHT
+**Browser football, played by drawing.**
+
+A football game with career levels, daily challenges, replays, and friend challenges. A different kind of project that pushed me beyond conventional web interfaces.
+
+`TypeScript` `Three.js` `Vite` `Supabase`
+
+[Find it in my portfolio ↗](https://aboubakarisar.tech)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><strong>Open the build notes</strong></summary>
+
+### CastleHub: the problem came first
+
+The starting point was our Slack community. People shared good work, but new messages quickly pushed those builds out of sight. CastleHub gives that work a place people can return to.
+
+### Typeverse: one engine, different experiences
+
+The project uses a shared typing engine across eight game modes. The repository documents the architecture, local setup, and the decisions behind the arcade.
+
+### More than a screenshot
+
+I want my projects to be easy to explore. Start with a live product, then use the available repositories to see how it was built.
+
+</details>
+
+## My toolkit
+
+| Layer | What I use |
+| :--- | :--- |
+| **Interfaces** | React · Next.js · TypeScript · JavaScript · Tailwind CSS |
+| **APIs and data** | Node.js · Express · MongoDB |
+| **Browser experiences** | Three.js · Canvas · Vite |
+| **Everyday tools** | Git · GitHub · Postman |
+
+<details>
+<summary><strong>Beyond my main stack</strong></summary>
+
+My repositories also include learning and coursework in Java, Python, C++, Rust, data structures, and databases. My current focus is building useful web products and interactive browser experiences.
+
+</details>
+
+---
+
+<div align="center">
+
+### Have something worth building?
+
+I'm open to **remote developer roles** and **on-site opportunities in Lahore**.
+
+[**See my work**](https://aboubakarisar.tech) &nbsp; / &nbsp; [**Let's connect**](https://www.linkedin.com/in/aboubakarisar/) &nbsp; / &nbsp; [**Email me**](mailto:aboubakar.dev@gmail.com)
+
+<sub>Abou Bakar Arisar · Full-stack developer · Lahore, Pakistan</sub>
+
+</div>
