@@ -1,148 +1,113 @@
 <div align="center">
 
-<a href="https://aboubakarisar.tech">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:163245,100:38bdf8&height=220&section=header&text=ABOU%20BAKAR%20ARISAR&fontSize=38&fontColor=f0f6fc&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%2F%20PRODUCT%20BUILDER&descSize=14&descAlignY=58" width="100%" alt="Abou Bakar Arisar | Full-stack developer and product builder" />
-</a>
+<a href="https://aboubakarisar.tech"><img src="./assets/hero.svg" width="100%" alt="Aboubakar. Full-stack developer and creative builder in Lahore, Pakistan." /></a>
 
-### I build software people actually use.
+<br />
 
-Web apps. Browser games. A home for a builder community.
+<a href="https://aboubakarisar.tech"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=21&amp;duration=3000&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Hey%2C+I%27m+Aboubakar+%F0%9F%91%8B;I+build+software+people+actually+use.;Web+apps.+Browser+games.+Community+products." alt="Hey, I'm Aboubakar. I build software people actually use." /></a>
 
-**Lahore, Pakistan · Open to remote and on-site developer roles**
+<a href="https://aboubakarisar.tech"><img src="https://img.shields.io/badge/Portfolio-Visit_my_world-A78BFA?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/aboubakarisar/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:aboubakar.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-F472B6?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 
-[![Portfolio](https://img.shields.io/badge/EXPLORE_MY_WORK-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=0d1117)](https://aboubakarisar.tech)
-[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-1e293b?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aboubakarisar/)
-[![Email](https://img.shields.io/badge/SAY_HELLO-1e293b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aboubakar.dev@gmail.com)
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=aboubakararisar&amp;label=PROFILE+VIEWS&amp;color=8b5cf6&amp;style=flat-square" alt="Profile views" />
+
+</div>
+
+## A little about me
+
+- 🛠️ Full-stack developer building with **React, Next.js, TypeScript, Node.js, and MongoDB**.
+- 💡 I like finding everyday problems and making something useful out of them.
+- 🎮 Outside conventional web apps, I build interactive browser games.
+- 🌱 Exploring how AI can help me build better software.
+- 📍 Based in **Lahore, Pakistan**, open to **remote and on-site roles**.
+
+<div align="center">
+<a href="https://app.daily.dev/pindaricoders"><img src="https://api.daily.dev/devcards/v2/n9aj4LjPy06brwkx5lWtp.png?type=wide&amp;r=i5a" width="620" alt="Aboubakar's daily.dev card" /></a>
+</div>
+
+## Things I've built
+
+<a href="https://aboubakarisar.tech"><img src="./assets/portfolio.png" width="100%" alt="My portfolio: I build software people actually use. Explore web apps, browser games, and community products." /></a>
+
+<p align="center"><a href="https://aboubakarisar.tech"><strong>Explore my portfolio ↗</strong></a></p>
+
+### 🏰 CastleHub
+Good builds kept getting buried in our Slack community, so I made a home for them. A MERN platform for sharing work in progress and discovering what others are building.
+
+<a href="https://castlehub.aboubakarisar.tech"><img src="./assets/castlehub.png" width="100%" alt="CastleHub: show the castle what you're building. A social home for the SkyCastle community." /></a>
+
+**MongoDB · Express · React · Node.js** &nbsp; [Explore CastleHub ↗](https://castlehub.aboubakarisar.tech)
+
+### ⌨️ Typeverse
+Eight typing games. One shared engine. Progress that stays in your browser.
+
+**TypeScript · Preact · Vite · Canvas** &nbsp; [Play ↗](https://typeverse.aboubakarisar.tech) · [Code ↗](https://github.com/AboubakarArisar/typeverse)
+
+### ⚽ LAST LIGHT
+A football game you play by drawing, with career levels, replays, and friend challenges.
+
+**TypeScript · Three.js · Vite · Supabase** &nbsp; [Find it in my portfolio ↗](https://aboubakarisar.tech)
+
+<details>
+<summary><strong>📂 One more: Droplr</strong></summary>
+<br />
+A location-based file-sharing app with nearby discovery, upload progress, and expiring files.
+
+**React · Vite · Tailwind CSS** · [Explore the frontend ↗](https://github.com/AboubakarArisar/droplr-frontend)
+
+</details>
+
+## My everyday toolkit
+
+<div align="center">
+
+**Interfaces**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&amp;theme=dark" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS" />
+
+**Behind the scenes**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,supabase&amp;theme=dark" alt="Node.js, Express, MongoDB, MySQL, PostgreSQL, Supabase" />
+
+**Build, test, ship**
+
+<img src="https://skillicons.dev/icons?i=git,github,vite,postman,figma,linux&amp;theme=dark" alt="Git, GitHub, Vite, Postman, Figma, Linux" />
+
+</div>
+
+<details>
+<summary><strong>🧠 Other languages I've explored</strong></summary>
+<br />
+<p align="center"><img src="https://skillicons.dev/icons?i=java,python,cpp,rust,dart&amp;theme=dark" alt="Java, Python, C++, Rust, Dart" /></p>
+My repositories include coursework, experiments, and practice alongside my product work.
+</details>
+
+## A peek at my GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AboubakarArisar&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;icon_color=22D3EE&amp;text_color=C9D1D9&amp;rank_icon=github" alt="Aboubakar's GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AboubakarArisar&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=C9D1D9&amp;langs_count=8" alt="Languages across my public repositories" />
+
+<img width="660" src="https://streak-stats.demolab.com?user=AboubakarArisar&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=A78BFA&amp;fire=F472B6&amp;currStreakLabel=22D3EE" alt="GitHub contribution streak" />
+
+<sub>Language stats describe my public repositories, not my skill level.</sub>
 
 </div>
 
 ---
 
-## A little context
-
-I'm Abou Bakar, a full-stack developer who likes turning everyday frustrations into useful products. Sometimes that's a better way to share files. Sometimes it's a game you play in your browser.
-
-I work across the interface and backend with **React, Next.js, TypeScript, Node.js, Express, and MongoDB**. I care about the small details that make a product feel easy to use.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**01 / MY APPROACH**
-
-Find a real problem. Build something people can try. Learn from what happens next.
-
-</td>
-<td width="50%" valign="top">
-
-**02 / WHAT'S NEXT**
-
-A frontend or full-stack role where I can contribute across the product and grow with the team.
-
-</td>
-</tr>
-</table>
-
-## Selected builds
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏰 CastleHub
-**A place for community builds to stay visible.**
-
-Good projects kept getting buried in our Slack community, so I built a home for them. Members can share work in progress, publish projects, and discover what others are building.
-
-`MongoDB` `Express` `React` `Node.js`
-
-[Explore CastleHub ↗](https://castlehub.aboubakarisar.tech)
-
-</td>
-<td width="50%" valign="top">
-
-### ⌨️ Typeverse
-**Typing practice with an arcade mindset.**
-
-Eight browser game modes powered by a shared typing engine. Built around different ways to play, with progress tracking that stays in your browser.
-
-`TypeScript` `Preact` `Vite` `Canvas`
-
-[Play Typeverse ↗](https://typeverse.aboubakarisar.tech) · [Read the code ↗](https://github.com/AboubakarArisar/typeverse)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📂 Droplr
-**Share files with people nearby.**
-
-A location-based file-sharing app with a React frontend, upload progress, nearby file discovery, and expiring files.
-
-`React` `Vite` `Tailwind CSS`
-
-[Explore the frontend ↗](https://github.com/AboubakarArisar/droplr-frontend)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚽ LAST LIGHT
-**Browser football, played by drawing.**
-
-A football game with career levels, daily challenges, replays, and friend challenges. A different kind of project that pushed me beyond conventional web interfaces.
-
-`TypeScript` `Three.js` `Vite` `Supabase`
-
-[Find it in my portfolio ↗](https://aboubakarisar.tech)
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><strong>Open the build notes</strong></summary>
-
-### CastleHub: the problem came first
-
-The starting point was our Slack community. People shared good work, but new messages quickly pushed those builds out of sight. CastleHub gives that work a place people can return to.
-
-### Typeverse: one engine, different experiences
-
-The project uses a shared typing engine across eight game modes. The repository documents the architecture, local setup, and the decisions behind the arcade.
-
-### More than a screenshot
-
-I want my projects to be easy to explore. Start with a live product, then use the available repositories to see how it was built.
-
-</details>
-
-## My toolkit
-
-| Layer | What I use |
-| :--- | :--- |
-| **Interfaces** | React · Next.js · TypeScript · JavaScript · Tailwind CSS |
-| **APIs and data** | Node.js · Express · MongoDB |
-| **Browser experiences** | Three.js · Canvas · Vite |
-| **Everyday tools** | Git · GitHub · Postman |
-
-<details>
-<summary><strong>Beyond my main stack</strong></summary>
-
-My repositories also include learning and coursework in Java, Python, C++, Rust, data structures, and databases. My current focus is building useful web products and interactive browser experiences.
-
-</details>
-
----
-
 <div align="center">
 
-### Have something worth building?
+### Got something interesting to build?
 
-I'm open to **remote developer roles** and **on-site opportunities in Lahore**.
+I'm open to frontend and full-stack opportunities. Let's talk.
 
-[**See my work**](https://aboubakarisar.tech) &nbsp; / &nbsp; [**Let's connect**](https://www.linkedin.com/in/aboubakarisar/) &nbsp; / &nbsp; [**Email me**](mailto:aboubakar.dev@gmail.com)
+**[Portfolio](https://aboubakarisar.tech) · [LinkedIn](https://www.linkedin.com/in/aboubakarisar/) · [aboubakar.dev@gmail.com](mailto:aboubakar.dev@gmail.com)**
 
-<sub>Abou Bakar Arisar · Full-stack developer · Lahore, Pakistan</sub>
+<sub>Built with curiosity. Kept practical.</sub>
 
 </div>
